@@ -1,0 +1,21 @@
+
+Instructions found on SO: http://bit.ly/2dJrfig
+
+Add PATH variable
+http://stackoverflow.com/questions/34126957/how-to-installing-pygame-for-python-3-5-via-pip
+At CMD prompt type the following:
+	set PATH=%PATH%;C:\Python
+
+Get pygame binaries from http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
+save to C:\Python folder
+
+Install pygame binaries from an elevated CMD line
+type the following:
+	cd C:\Python
+	pip install wheel
+	UPGRADE IF NEEDED
+	pip install C:\Python\pygame-1.9.2b1-cp35-cp35m-win32.whl
+
+
+
+
