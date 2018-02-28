@@ -1,9 +1,6 @@
 #   Author: Adam Cherochak 20161026
 #   Purpose: Halloween Scary Pop-up
-#   Detail: this program displays a full-screen image
-#           the user is encouraged to find differences
-#           the program will call a scary sound file and
-#           change the image to something scary
+#   Detail: Surprise your friends while they spot the differences between two images...
 #   SOURCE: https://www.raspberrypi.org/learning/scary-spot-the-difference/worksheet/
 
 import pygame
